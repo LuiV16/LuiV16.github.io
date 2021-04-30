@@ -3,8 +3,8 @@
     "name": "Lui Nautu",
     "label": "Student",
     "picture": "https://LuiV16.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "lui.nautu@student.chaminade.edu",
+    "phone": "808-200-9675",
     "website": "https://LuiV16.github.io",
     "summary": "I am studying for a B.S. in Data Science at Chaminade University of Honolulu. I expect to graduate in Spring, 2024.",
     "location": {
@@ -22,17 +22,17 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
@@ -59,105 +59,93 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "MySQL",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "level": "Windows 10",
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Chaminade University, Honolulu, HI",
+      "area": "Data Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "unknown",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Chaminade University",
+      "position": "Full-Time Student",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Scholarship 4-years",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Second Semester",
+        "First Semster was peak season for Covid. Not very fun."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Signature Flights",
+      "position": "Unloading Mail from FedEx Airplane Cargo",
+      "website": "n/a",
+      "startDate": "Summer of 2020",
+      "endDate": "End of Summer 2020",
+      "summary": "Unload mail on to conveyer belt to be sent off to the postal office.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Good-Paying Job",
+        "Cool Co-workers and a good workout"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Food Bank",
+      "website": "n/a",
+      "position": "Food Distributor",
+      "startDate": "2019 Summer",
+      "endDate": "2020 End of Summer",
+      "summary": "Distribute food to people in need of food",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "You get food as well afterwards.",
+        "The work isn't that bad and also doing something goof for the community."
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Scholarship 4-years",
+      "date": "2020-Present",
+      "awarder": "Chaminade University and Kamehameha Schools",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 2.8 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Eagle Scout",
+      "date": "2013",
+      "awarder": "Boy Scouts of America",
+      "summary": "One of the highest awards for being a Boy Scout"
     }
   ],
   "references": [
