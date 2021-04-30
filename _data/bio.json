@@ -42,31 +42,40 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Gaming",
+        "Anime",
+        "Youtube"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Gardening",
       "keywords": [
+        "Roma Tomatoes"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "Elon Musk"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "MySQL",
+      "level": "Average",
       "keywords": [
-        
+        "MySQL"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "Windows 10",
+      "level": "Advanced",
+      "keywords": [
+        "Windows 10",
+        "OBS Studio (Free Screenrecording Software)",
+        "Words and Google Doc"
+        ]
     }
   ],
   "education": [
